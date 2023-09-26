@@ -1,0 +1,9 @@
+1 []: To create another secure page use code below on top of php file.
+        <?php
+        require('db.php');
+        include("auth_session.php");
+        ?>
+
+
+2 []: Use javascript-> add click events and manipulate html-elements.
+3 []: User php-> access send and retreive data from db.
